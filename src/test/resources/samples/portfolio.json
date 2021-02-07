@@ -1,0 +1,25 @@
+{
+  "trackingId": "62fc4073c80e429e",
+  "payload": {
+    "positions": [
+      {
+        "figi": "BBG004730RP0",
+        "ticker": "GAZP",
+        "isin": "RU0007661625",
+        "instrumentType": "Stock",
+        "balance": 1E+1,
+        "lots": 1,
+        "expectedYield": {
+          "currency": "RUB",
+          "value": -40.5
+        },
+        "averagePositionPrice": {
+          "currency": "RUB",
+          "value": 225.91
+        },
+        "name": "Газпром"
+      }
+    ]
+  },
+  "status": "Ok"
+}
